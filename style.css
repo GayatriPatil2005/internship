@@ -1,0 +1,20 @@
+body{
+    
+    background-color: lightblue;
+        
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+}
+#heading1{
+    color: aqua;
+}
+.paragraph{
+    font-size: medium;
+    color: navy;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p b {
+    color: brown;
+}
